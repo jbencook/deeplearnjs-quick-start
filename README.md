@@ -5,6 +5,8 @@
 3. Open the console to see the results that have been printed (screen shot below).
 4. Start coding. `./src/index.ts` is the entry point.
 
+![this is a screen shot](./public/screenshot.png)
+
 # A few other notes
 
 deeplearnjs is written in TypeScript, which is what we use here.
